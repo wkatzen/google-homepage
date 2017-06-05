@@ -1,0 +1,28 @@
+img {
+  display: block;
+  margin: auto;
+  padding-top: 87px;
+}
+
+input {
+  display: block;
+  margin: auto;
+}
+.navbar {
+  display: inline-block;
+  line-height: 24px;
+  outline: none;
+  vertical-align: middle;
+  position: absolute;
+  right: 30px;
+  font: 13px arial, sans-serif;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
